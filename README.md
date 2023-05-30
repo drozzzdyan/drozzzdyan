@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400" />
+</div>
+
+<div id="badges" align="center">
+  <a href="https://t.me/drozzzdyan">
+    <img src="https://img.shields.io/badge/drozzzdyan-tg-blue?style=for-the-badge&logo=telegram" />
+  </a>
+</div>
 
 <!--
 **drozzzdyan/drozzzdyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
