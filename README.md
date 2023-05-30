@@ -1,10 +1,14 @@
-<div id="header" align="center"> 
+<h1 align="center"> Hi, I'm Daniil :raising_hand_man: </h1>
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400" />
 </div>
 
+&nbsp;
+
 <div id="badges" align="center">
   <a href="https://t.me/drozzzdyan">
-    <img src="https://img.shields.io/badge/drozzzdyan-tg-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/contact_me-tg-blue?style=for-the-badge&logo=telegram" />
   </a>
 </div>
 
