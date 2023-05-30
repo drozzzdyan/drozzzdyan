@@ -8,17 +8,28 @@
   </a>
 </div>
 
-<!--
-**drozzzdyan/drozzzdyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+I'm :child: junior Frontend Developer from Russia, but now I'm traveling the world :world_map:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_teacher: I worked as a math and programming teacher, now I'm looking for a job as a Frontend developer
+- :mag_right:	In free time I study new technologies (sass, typescript, react and others)
+- :ladder: In the future, I want to become a Fullstack Developer
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div id="tools">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" alt="javaScript" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50" alt="html5" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" alt="css3" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="50" alt="sass" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" height="50" alt="gulp" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="50" alt="git" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="figma" />&nbsp;
+</div>
+
+---
+
